@@ -1,5 +1,5 @@
 # Amazon-Clone
-This is a amazon clone.......
+This is Amazon.com's Clone made using HTML,CSS and JavaScript
 
 
 
